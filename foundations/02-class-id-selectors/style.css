@@ -1,0 +1,41 @@
+/* p {
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DeJaVu Sans', sans-serif;
+}
+
+div {
+    color: #00f;
+    font-size: 36px;
+}
+
+p.num-three {
+    font-size: 24px;
+}
+
+#num-four {
+    background-color: #0f0;
+    font-size: 24px;
+    font-weight: bold;
+} */
+
+.odd-one,
+.odd-three,
+.odd-five {
+    background-color: #ffc0cb;
+    font-family: Verdana, DejaVu sans, sans-serif;
+}
+
+#num-two {
+    color: #00f;
+    font-size: 36px;
+}
+
+p.odd-three {
+    font-size: 24px;
+}
+
+#num-four {
+    background-color: #0f0;
+    font-size: 24px;
+    font-weight: bold;
+}
